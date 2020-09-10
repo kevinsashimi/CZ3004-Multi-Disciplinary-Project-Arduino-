@@ -214,4 +214,4 @@ Below contains the sensor names we have given which you will notice in the sourc
 ## About
 AY19/20 Semester 2
 
-Arduino parter: https://github.com/kevinsashimi
+Arduino parter: https://github.com/SoulXHades
